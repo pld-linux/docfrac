@@ -1,11 +1,11 @@
-Summary:	Convert between RTF, HTML and text format	
+Summary:	Convert between RTF, HTML and text format
 Summary(pl.UTF-8):	Prosty konwerter RTF/HTML/txt
-Name:		docfrac	
+Name:		docfrac
 Version:	3.1.5
 Release:	0.1
 License:	LGPL
 Group:		Applications
-Source0:	http://dl.sourceforge.net/docfrac/%{name}-%{version}.src.tar.gz
+Source0:	http://downloads.sourceforge.net/docfrac/%{name}-%{version}.src.tar.gz
 URL:		http://www.docfrac.net/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
