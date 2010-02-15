@@ -5,7 +5,7 @@ Version:	3.1.5
 Release:	0.1
 License:	LGPL
 Group:		Applications
-Source0:	http://downloads.sourceforge.net/docfrac/%{name}-%{version}.src.tar.gz
+Source0:	http://dl.sourceforge.net/docfrac/%{name}-%{version}.src.tar.gz
 URL:		http://www.docfrac.net/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
