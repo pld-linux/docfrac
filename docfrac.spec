@@ -1,3 +1,5 @@
+# TODO:
+# - __cc and rpm*flags
 Summary:	Convert between RTF, HTML and text format
 Summary(pl.UTF-8):	Prosty konwerter RTF/HTML/txt
 Name:		docfrac
@@ -7,6 +9,7 @@ License:	LGPL
 Group:		Applications
 Source0:	http://dl.sourceforge.net/docfrac/%{name}-%{version}.src.tar.gz
 URL:		http://www.docfrac.net/
+BuildRequires:	libstdc++-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
